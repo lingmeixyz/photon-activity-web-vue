@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "photonactivity.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,6 +22,9 @@
     "babel-plugin-import": "^1.13.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
+    "video.js": "^7.7.5",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
