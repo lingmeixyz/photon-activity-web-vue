@@ -2,7 +2,7 @@
   <div id="globaheader">
     <a-menu theme="light">
       <a-menu-item key="home">
-        <router-link to="/">PhotonActivity.com</router-link>|
+        <router-link to="/"><h3>PhotonActivity.com</h3></router-link>|
       </a-menu-item>
       <!--
       <a-menu-item key="about" disabled>
