@@ -39,9 +39,11 @@ export default {
       videoOptions: {
         autoplay: true,
         controls: true,
+        fluid: true,
+        loop:true,
         sources: [
           {
-            src: "@/assets/video.mp4",
+            src: "../assets/5g-en.mp4",
             type: "video/mp4"
           }
         ]
@@ -53,12 +55,12 @@ export default {
 
 <style scoped>
 #home .ant-layout-header {
-  background: #7dbcea;
+  background: #fff;
   color: #fff;
   text-align: left;
 }
 #home .ant-layout-footer {
-  background: #7dbcea;
+  background: #fff;
   color: #fff;
   text-align: center;
 }
