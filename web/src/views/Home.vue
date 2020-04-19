@@ -43,7 +43,7 @@ export default {
         loop:true,
         sources: [
           {
-            src: "../assets/5g-en.mp4",
+            src: "https://www.bilibili.com/video/BV1jE411p7im/",
             type: "video/mp4"
           }
         ]

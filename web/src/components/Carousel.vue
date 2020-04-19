@@ -8,16 +8,16 @@
         <a-icon type="right-circle" />
       </div>
       <div>
-        <h3>1</h3>
+        <h3><img src='../assets/img/bandwidth-close-up-computer-connection-1148820.jpg' alt="logo" /></h3>
       </div>
       <div>
-        <h3>2</h3>
+        <h3><img src='../assets/img/interior-of-office-building-325229.jpg' alt="logo" /></h3>
       </div>
       <div>
-        <h3>3</h3>
+        <h3><img src='../assets/img/abstract-art-blur-board-270549.jpg' alt="logo" /></h3>
       </div>
       <div>
-        <h3>4</h3>
+        <h3><img src='../assets/img/lines-of-code-2653362.jpg' alt="logo" /></h3>
       </div>
     </a-carousel>
   </div>
@@ -59,5 +59,9 @@ export default {
 
 .ant-carousel >>> .slick-slide h3 {
   color: #fff;
+}
+.ant-carousel .slick-slide h3  img{
+   width:100%;
+   height:100%;
 }
 </style>
