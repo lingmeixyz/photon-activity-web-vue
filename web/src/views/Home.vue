@@ -43,7 +43,7 @@ export default {
         loop:true,
         sources: [
           {
-            src: "@/assets/video/PexelsVideos1409881.mp4",
+            src: "@/assets/video/video.mp4",
             type: "video/mp4"
           }
         ]
