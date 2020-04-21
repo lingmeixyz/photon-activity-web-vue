@@ -2,6 +2,7 @@
   "name": "photonactivity.com",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://github.com/lingmeixyz/photon-activity-web-vue",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
