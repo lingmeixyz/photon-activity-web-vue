@@ -6,6 +6,7 @@ import { Layout } from 'ant-design-vue'
 import { Carousel } from 'ant-design-vue'
 import { Icon } from 'ant-design-vue'
 import { Card } from 'ant-design-vue'
+import './registerServiceWorker'
 
 Vue.config.productionTip = false
 
